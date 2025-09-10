@@ -1,0 +1,15 @@
+name	price	quantity
+americano	1500	10
+caffe_latte	2500	5
+ice_tea	2000	7
+orange_juice	2000	3
+mango_juice	3000	4
+cold_brew	3000	2
+Peppermint	3500	0
+Earl_Gray	3500	11
+Chamomile	3500	7
+green_tea	3500	0
+caffe_moca	3000	5
+Caramel_Macchiato	3500	3
+milk_shake	4000	5
+lemonade	3500	1

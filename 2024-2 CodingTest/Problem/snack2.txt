@@ -1,0 +1,8 @@
+name	price	quantity
+cream_cake	4000	0
+cream_bagel	3000	5
+scone	3000	3
+apple_pie	3500	0
+cheese_cake	5000	6
+tiramisu	5500	5
+egg_tart	4000	3

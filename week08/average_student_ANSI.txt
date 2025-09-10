@@ -1,0 +1,6 @@
+Name : 다현    Avg : 94.00
+Name : 정연    Avg : 83.00
+Name : 지효    Avg : 58.00
+Avg Korean : 81.00
+Avg English : 75.67
+Avg Total : 78.33

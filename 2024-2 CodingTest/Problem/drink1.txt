@@ -1,0 +1,15 @@
+name
+americano
+caffe_latte
+ice_tea
+orange_juice
+mango_juice
+cold_brew
+Peppermint
+Earl_Gray
+Chamomile
+green_tea
+caffe_moca
+Caramel_Macchiato
+milk_shake
+lemonade
